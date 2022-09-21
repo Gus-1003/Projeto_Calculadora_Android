@@ -81,7 +81,6 @@ class MainActivity : AppCompatActivity() {
 
         buttonCalcular.setOnClickListener {
             textViewResultSoma.text = (variavelX + variavelY).toString()
-            //Toast.makeText(this, getString(R.string.realizando_calculos), Toast.LENGTH_SHORT).show()
         }
 
     }
