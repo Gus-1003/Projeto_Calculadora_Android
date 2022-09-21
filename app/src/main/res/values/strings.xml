@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculadoraBasica</string>
+    <string name="variavelY">VariávelY</string>
+    <string name="variavelX">VariávelX</string>
+    <string name="soma">Soma:</string>
+    <string name="resultado">Resultado</string>
+    <string name="valorY">Valor Y</string>
+    <string name="buttonX">Entrada de X</string>
+    <string name="buttonY">Entrada de Y</string>
+    <string name="calcular">Calcular</string>
+    <string name="valorX">Valor X</string>
+    <string name="titleCalculadora">Calculadora Básica</string>
+    <string name="Resultado">Operação realizada</string>
+    <string name="titleEntrada">Entrada do Valor:</string>
+    <string name="inputValor">Valor</string>
+</resources>
